@@ -1,6 +1,7 @@
 libcorkipset (1.1.1+20150311-9) UNRELEASED; urgency=medium
 
   * Bump debhelper from old 10 to 12.
+  * Set debhelper-compat version in Build-Depends.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 28 Apr 2020 19:15:13 +0000
 
