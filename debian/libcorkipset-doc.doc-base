@@ -5,5 +5,5 @@ Abstract: This is the documentation for libcorkipset library
 Section: Programming/C
 
 Format: HTML
-Index: /usr/share/doc/libcorkipset-doc/html/index.html
-Files: /usr/share/doc/libcorkipset-doc/html/*
+Index: /usr/share/doc/libcorkipset-dev/html/index.html
+Files: /usr/share/doc/libcorkipset-dev/html/*

@@ -1,20 +1,20 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ipset
+Upstream-Name: libcorkipset
 Upstream-Contact: Douglas Creager <dcreager@dcreager.net>
                   John Zachary <jzachary@jzachary.net>
                   Greg Virgin <greg.virgin@redjack.com>
-Source: https://github.com/redjack/ipset
+Source: https://github.com/dcreager/libcorkipset
 
 Files: *
 Copyright: 2009-2013, RedJack, LLC.
 License: BSD-3-clause
 
 Files: debian/*
-Copyright: 2017 Roger Shimizu <rogershimizu@gmail.com>
+Copyright: 2017-2020 Roger Shimizu <rosh@debian.org>
 License: GPL-2+
 
 Files: debian/patches/*
-Copyright: 2016 Roger Shimizu <rogershimizu@gmail.com>
+Copyright: 2016-2020 Roger Shimizu <rosh@debian.org>
 License: BSD-3-clause
 
 License: BSD-3-clause

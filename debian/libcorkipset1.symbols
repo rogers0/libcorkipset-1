@@ -1,4 +1,5 @@
 libcorkipset.so.1 libcorkipset1 #MINVER#
+* Build-Depends-Package: libcorkipset-dev
  ipmap_done@Base 1.1.1
  ipmap_free@Base 1.1.1
  ipmap_init@Base 1.1.1
